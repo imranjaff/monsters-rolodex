@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imranjaff/monsters-rolodex/static/css/main.b4c5562c.chunk.css",
+    "main.js": "/imranjaff/monsters-rolodex/static/js/main.d03f7d08.chunk.js",
+    "main.js.map": "/imranjaff/monsters-rolodex/static/js/main.d03f7d08.chunk.js.map",
+    "runtime-main.js": "/imranjaff/monsters-rolodex/static/js/runtime-main.6e484277.js",
+    "runtime-main.js.map": "/imranjaff/monsters-rolodex/static/js/runtime-main.6e484277.js.map",
+    "static/js/2.3a82cee6.chunk.js": "/imranjaff/monsters-rolodex/static/js/2.3a82cee6.chunk.js",
+    "static/js/2.3a82cee6.chunk.js.map": "/imranjaff/monsters-rolodex/static/js/2.3a82cee6.chunk.js.map",
+    "index.html": "/imranjaff/monsters-rolodex/index.html",
+    "precache-manifest.5a67de33bf4b8673ac85de9ef6bac0c5.js": "/imranjaff/monsters-rolodex/precache-manifest.5a67de33bf4b8673ac85de9ef6bac0c5.js",
+    "service-worker.js": "/imranjaff/monsters-rolodex/service-worker.js",
+    "static/css/main.b4c5562c.chunk.css.map": "/imranjaff/monsters-rolodex/static/css/main.b4c5562c.chunk.css.map",
+    "static/js/2.3a82cee6.chunk.js.LICENSE": "/imranjaff/monsters-rolodex/static/js/2.3a82cee6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e484277.js",
+    "static/js/2.3a82cee6.chunk.js",
+    "static/css/main.b4c5562c.chunk.css",
+    "static/js/main.d03f7d08.chunk.js"
+  ]
+}
